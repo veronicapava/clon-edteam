@@ -54,6 +54,7 @@ export const teacherReducer = (state = {}, action) => {
     return {
       ...state,
       teachers: action.teachers
+
     }
   }
   return state
