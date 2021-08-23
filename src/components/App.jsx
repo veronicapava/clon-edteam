@@ -5,13 +5,13 @@ import Speciality from "./Pages/Speciality"
 import Courses from "./Pages/Courses"
 import Course from "./Pages/Course"
 import Teachers from "./Pages/Teachers"
-import Fragment from "./Pages/Fragment"
 import Login from "./Pages/Login"
 import Register from "./Pages/Register"
 import Page404 from "./Pages/Page404"
 import Protected from "./Routes/Protected";
 import Public from "./Routes/Public"
 import Header from "./Organisms/Header"
+import Fragment from "./Pages/Fragment"
 
 const App = () => (
   <Router>

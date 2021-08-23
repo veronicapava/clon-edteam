@@ -798,6 +798,13 @@
       }
     }
   ],
+  "clase": [
+    {
+      "id": 123,
+      "name": "Introducción al curso React desde cero",
+      "video": "48157338"
+    }
+  ],
   "especialidad": [
     {
       "id": 1,
